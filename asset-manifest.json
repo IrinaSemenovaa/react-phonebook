@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-phonebook/static/css/main.2401891c.css",
+    "main.js": "/react-phonebook/static/js/main.73c5b02f.js",
+    "static/js/823.8f7719f1.chunk.js": "/react-phonebook/static/js/823.8f7719f1.chunk.js",
+    "static/js/97.02a637fe.chunk.js": "/react-phonebook/static/js/97.02a637fe.chunk.js",
+    "static/js/92.9dd849f2.chunk.js": "/react-phonebook/static/js/92.9dd849f2.chunk.js",
+    "static/css/597.675089b3.chunk.css": "/react-phonebook/static/css/597.675089b3.chunk.css",
+    "static/js/597.cee1425e.chunk.js": "/react-phonebook/static/js/597.cee1425e.chunk.js",
+    "static/js/483.7dc64be9.chunk.js": "/react-phonebook/static/js/483.7dc64be9.chunk.js",
+    "static/media/1647857642_2-gamerwall-pro-p-fon-dlya-saita-krasivie-2.jpg": "/react-phonebook/static/media/1647857642_2-gamerwall-pro-p-fon-dlya-saita-krasivie-2.90bea203ab253e4e49df.jpg",
+    "static/media/Future_Fund-2021-Website_Assets_Directory_Communication.png": "/react-phonebook/static/media/Future_Fund-2021-Website_Assets_Directory_Communication.64ca670b2faf31a5931f.png",
+    "index.html": "/react-phonebook/index.html",
+    "main.2401891c.css.map": "/react-phonebook/static/css/main.2401891c.css.map",
+    "main.73c5b02f.js.map": "/react-phonebook/static/js/main.73c5b02f.js.map",
+    "823.8f7719f1.chunk.js.map": "/react-phonebook/static/js/823.8f7719f1.chunk.js.map",
+    "97.02a637fe.chunk.js.map": "/react-phonebook/static/js/97.02a637fe.chunk.js.map",
+    "92.9dd849f2.chunk.js.map": "/react-phonebook/static/js/92.9dd849f2.chunk.js.map",
+    "597.675089b3.chunk.css.map": "/react-phonebook/static/css/597.675089b3.chunk.css.map",
+    "597.cee1425e.chunk.js.map": "/react-phonebook/static/js/597.cee1425e.chunk.js.map",
+    "483.7dc64be9.chunk.js.map": "/react-phonebook/static/js/483.7dc64be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2401891c.css",
+    "static/js/main.73c5b02f.js"
+  ]
+}
