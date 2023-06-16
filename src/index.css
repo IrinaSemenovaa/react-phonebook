@@ -7,9 +7,59 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+/* 
+  background: linear-gradient(45deg, #e6a8d7, #92c6df, #b4f8c8, #f9ed69);
+  background-size: 400% 400%;
+  animation: gradientAnimation 10s ease infinite; */
+
+  background-image: url('./image/1647857642_2-gamerwall-pro-p-fon-dlya-saita-krasivie-2.jpg');
+  /* background-repeat: no-repeat;  */
+  background-size: cover;
+  background-repeat: repeat-x;
+}
+@keyframes gradientAnimation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
 }

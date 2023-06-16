@@ -1,0 +1,19 @@
+.linkStyles {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  border-radius: 20px;
+}
+
+.linkStyles:hover,
+.linkStyles:focus {
+  background-color: #f2f2f2;
+  color: #333;
+}
+.linkStyles.active {
+  background-color: #333;
+  color: #fff;
+}
