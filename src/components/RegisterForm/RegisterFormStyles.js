@@ -1,6 +1,6 @@
 import styled from '@emotion/styled';
-import { css, keyframes } from '@emotion/react';
-  
+import { keyframes } from '@emotion/react';
+
 export const FormContainer = styled.form`
   display: flex;
   flex-direction: column;

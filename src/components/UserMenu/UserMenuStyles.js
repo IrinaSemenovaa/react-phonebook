@@ -1,5 +1,5 @@
-import styled from "@emotion/styled";
-import { css, keyframes } from "@emotion/react";
+import styled from '@emotion/styled';
+import { keyframes } from '@emotion/react';
 
 export const UserInfoContainer = styled.div`
   display: flex;
